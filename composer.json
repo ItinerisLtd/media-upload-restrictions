@@ -1,0 +1,43 @@
+{
+  "name": "itinerisltd/media-upload-restrictions",
+  "type": "wordpress-muplugin",
+  "description": "Applies restrictions to file uploads in line with our upload policy.",
+  "keywords": [
+    "media-upload",
+    "wordpress",
+    "wp"
+  ],
+  "homepage": "https://itinerisltd.github.io/media-upload-restrictions/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Itineris Limited",
+      "email": "hello@itineris.co.uk",
+      "homepage": "https://itineris.co.uk/",
+      "role": "Company"
+    },
+    {
+      "name": "Lee Hanbury-Pickett",
+      "email": "lee.hanbury@gmail.com",
+      "homepage": "https://github.com/codepuncher",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.4"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-master"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1.x-dev"
+    }
+  },
+  "prefer-stable": true,
+  "support": {
+    "email": "hello@itineris.co.uk",
+    "issues": "https://github.com/ItinerisLtd/media-upload-restrictions/issues",
+    "source": "https://github.com/ItinerisLtd/media-upload-restrictions"
+  }
+}
