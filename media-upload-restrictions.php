@@ -5,7 +5,7 @@
  * Description: Restricts uploads to comply with our upload policy.
  * Author: Itineris Ltd
  * Author URI: https://www.itineris.co.uk/
- * Version: 0.1.0
+ * Version: 0.2.0
  */
 
 /**
